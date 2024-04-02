@@ -1,4 +1,4 @@
-# Tema2_MAP
+# Tema2.1_MAP
 Tema2.1 - Metode avansate de programare
 Angeru Florin-Daniel, grupa 205,
 Informatica, anul 2, ID
