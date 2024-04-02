@@ -7,7 +7,7 @@ CERINTA:
 Clasa java.util.Arrays.  
 - sortare  
 - toString  
-- copyTo  
+- copyOf  
 
 Mod de utilizare:  
 In fereastra ce se deschide la rularea programului, se va introduce un sir de numere intregi separate prin virgula.  
